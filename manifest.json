@@ -1,0 +1,7 @@
+{
+    "name": "Timestamp Sender",
+    "version": "1.0.0",
+    "description": "Adds command to send a timestamp to a channel",
+    "author": "AnimeForevere#6606",
+    "license": "MIT"
+  }
